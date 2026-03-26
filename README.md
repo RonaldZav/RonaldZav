@@ -38,19 +38,16 @@
 ### 🔧 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="36" title="Ubuntu" />
-  &nbsp;
+  <img src="https://images.seeklogo.com/logo-png/48/2/mongodb-logo-png_seeklogo-481256.png" height="36" title="MongoDB" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" title="MySQL" /> &nbsp;
+  <img src="https://rustjobs.dev/_app/immutable/assets/rust.q4JbEQ-4.svg" height="36" title="Rust" /> &nbsp;
+  <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" height="36" title="Java" /> &nbsp;
+  
 </div>
 
 ---
